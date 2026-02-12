@@ -235,20 +235,7 @@ style="display:none;">
 ```python
 df.info()
 ```
-
-<class 'pandas.core.frame.DataFrame'>
-RangeIndex: 97606 entries, 0 to 97605
-Data columns (total 5 columns):
-#   Column      Non-Null Count  Dtype  
----  ------      --------------  -----  
-0   id          97606 non-null  object 
-1   room_id     97606 non-null  object 
-2   noted_date  97603 non-null  object 
-3   temp        97601 non-null  float64
-4   out/in      97601 non-null  object 
-dtypes: float64(1), object(4)
-memory usage: 3.7+ MB
-
+<img width="585" height="297" alt="image" src="https://github.com/user-attachments/assets/53a1ea7f-1afb-4017-a7a8-d0164f5ff634" />
 
 
 ```python
